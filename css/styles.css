@@ -51,15 +51,22 @@ letter-spacing: 0.02em;
 /* ========================= */
 
 /* ================INFO============== */
-.info {
+.info { 
+    background-color:#2E2F42;
 }
 
 .info-title {
     color: #FFF;
-    text-align: center;
+text-align: center;
+
 font-size: 56px;
-line-height: 1.07px; /* 107.143% */
-letter-spacing: 0.02em;
+font-weight: 700;
+line-height: 1.07px;
+letter-spacing: 0.2em;
+}
+
+button{
+    background-color:#4D5AE5; 
 }
 
 .info-btn {
@@ -79,6 +86,16 @@ letter-spacing: 0.04em;
 
 /* =================HERO=================== */
 .hero {
+}
+
+.hero-name {
+    color:#2E2F42;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11px;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .hero-list {
@@ -110,6 +127,7 @@ letter-spacing: 0.02em;
 
 .team {
     color:#2E2F42;
+    text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11px;
@@ -145,6 +163,7 @@ letter-spacing: 0.02em;
 
 .porfolio {
     color:#2E2F42;
+    text-align: center;
 font-size: 36px;
 font-weight: 700;
 line-height: 1.11px;
@@ -179,7 +198,9 @@ letter-spacing: 0.02em;
 /* =============FOOTER============ */
 
 .footer {
+    background-color: #2E2F42;
 }
+
 .footer-logo {
     color:#4D5AE5;
 font-family: Raleway sans-serif;
