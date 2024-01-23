@@ -36,7 +36,6 @@ letter-spacing: 0.02em;
 }
 
 .address-list{
-    font-style: normal;
 
 }
 
@@ -50,7 +49,9 @@ letter-spacing: 0.02em;
     line-height: 1.5;
     letter-spacing: 0.02.em;
 }
-.address-link:hover,
+.address-link:hover { 
+   color: #404BBF;
+}
 .address-link:focus{
     color: #404BBF;
 }
@@ -131,8 +132,7 @@ letter-spacing: 0.02em;
 
 /* =========================TEAM============ */
 .team-background {
-    background-color:#F4F4FD;
-
+    background-color: #F4F4FD   
 }
 .team {
     color:#2E2F42;
