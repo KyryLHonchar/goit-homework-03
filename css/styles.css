@@ -72,18 +72,20 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 }
 
-button{
-    background-color:#4D5AE5; 
-}
 
 .info-btn {
     color:  #FFF;
-
-font-family: Roboto sans-serif;
+    background-color:#4D5AE5; 
+font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5px;
 letter-spacing: 0.04em;
+cursor: pointer;
+}
+info-btn:hover,
+info-btn:focus{
+ color: #404BBF;   
 }
 
 
