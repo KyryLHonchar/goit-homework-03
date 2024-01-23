@@ -36,6 +36,7 @@ letter-spacing: 0.02em;
 }
 
 .address-list{
+    font-style: normal;
 
 }
 
@@ -129,7 +130,10 @@ letter-spacing: 0.02em;
 
 
 /* =========================TEAM============ */
+.team-background {
+    background-color:#F4F4FD;
 
+}
 .team {
     color:#2E2F42;
     text-align: center;
@@ -138,7 +142,7 @@ letter-spacing: 0.02em;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    background-color:#F4F4FD ;
+    
 }
 
 .team-list {
