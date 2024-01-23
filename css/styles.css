@@ -35,6 +35,10 @@ letter-spacing: 0.02em;
     color: #404BBF;
 }
 
+.address-address {
+    font-style: normal;
+}
+
 .address-list{
 
 }
@@ -83,9 +87,9 @@ line-height: 1.5px;
 letter-spacing: 0.04em;
 cursor: pointer;
 }
-info-btn:hover,
-info-btn:focus{
- color: #404BBF;   
+.info-btn:hover,
+.info-btn:focus {
+    color: #404BBF;
 }
 
 
