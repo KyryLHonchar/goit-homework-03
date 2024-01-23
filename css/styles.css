@@ -23,7 +23,7 @@ text-transform: uppercase;
     color: #2E2F42;
 }
 .nav-link {
-    color:  #2E2F42;
+    color:  #434455;
 
 font-size: 16px;
 font-weight: 500;
@@ -32,7 +32,7 @@ letter-spacing: 0.02em;
 }
 .nav-link:hover,
 .nav-link:focus{
-    color: #404BBF;
+    color: #404bbf;
 }
 
 .address-address {
@@ -75,18 +75,17 @@ letter-spacing: 0.02em;
 
 
 .info-btn {
-    color:  #FFF;
-    background-color:#4D5AE5; 
+    color:  #FFF; 
 font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 500;
-line-height: 1.5px;
+line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
 }
 .info-btn:hover,
 .info-btn:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 
@@ -118,14 +117,15 @@ cursor: pointer;
     color: #2E2F42;
 font-size: 20px;
 font-weight: 500;
-line-height: 1.2px;
+line-height: 1.2;
 letter-spacing: 0.02px;
+
 }
 .hero-text {
     color: #434455;
 
 font-size: 16px;
-font-weight: 400;
+font-weight:400;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
