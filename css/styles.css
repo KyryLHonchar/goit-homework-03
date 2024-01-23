@@ -98,7 +98,7 @@ letter-spacing: 0.04em;
     text-align: center;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
@@ -121,7 +121,7 @@ letter-spacing: 0.02px;
 
 font-size: 16px;
 font-weight: 400;
-line-height: 1.5px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
@@ -131,21 +131,22 @@ letter-spacing: 0.02em;
 /* =========================TEAM============ */
 
 .team {
-    background-color:#F4F4FD ;
     color:#2E2F42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    background-color:#F4F4FD ;
 }
 
 .team-list {
-    background-color: #FFFFFF;
+    background-color:#F4F4FD ;
 }
 
 .team-items {
+    background-color: #FFFFFF;
 }
 
 .team-subtitle {
@@ -160,7 +161,7 @@ letter-spacing: 0.02em;
     color: #434455;
 font-size: 16px;
 font-weight: 400;
-line-height: 1.5px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 /* ====================================*/
@@ -173,7 +174,7 @@ letter-spacing: 0.02em;
     text-align: center;
 font-size: 36px;
 font-weight: 700;
-line-height: 1.11;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
@@ -210,7 +211,7 @@ letter-spacing: 0.02em;
 
 .footer-logo {
     color:#4D5AE5;
-font-family: "Raleway" sans-serif;
+font-family: 'Raleway' sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
@@ -224,7 +225,7 @@ text-transform: uppercase;
     color:#F4F4FD;
 font-size: 16px;
 font-weight: 400;
-line-height: 1.5px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 /* ================================== */
