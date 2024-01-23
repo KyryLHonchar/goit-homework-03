@@ -11,58 +11,51 @@ ul, ul{
 }
 /* =============HEADER============ */
 .logo {
-    color: #4D5AE5;
-    font-family: 'Raleway', sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+    color:#4D5AE5;
+font-family: Raleway, sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 }
-
 .logo-part {
     color: #2E2F42;
 }
-
-.nav-list {
+.nav-list{
     
 }
-
 .nav-link {
-    color: #2e2f42;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
+    color:  #2e2f42 ;
 
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
 .nav-link:hover,
-.nav-link:focus {
+.nav-link:focus{
     color: #404bbf;
 }
 
 .address-address {
-    
 }
 
-.address-list {
+.address-list{
     font-style: normal;
 }
 
 .address {
-    
 }
-
 .address-link {
-    color: #434455;
-    font-family: "Roboto", sans-serif;
+    color:  #434455;
+    font-family: "Roboto" sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02.em;
 }
-
-.address-link:hover,
-.address-link:focus {
+.address-link:hover 
+.address-link:focus{
     color: #404bbf;
 }
 /* ========================= */
@@ -104,11 +97,10 @@ letter-spacing: 0.02em;
 
 /* =================HERO=================== */
 .hero {
-
 }
 
 .hero-name {
-    color: #2e2f42;
+    color: #2e2f42 ;
     text-align: center;
     font-size: 20px;
     font-weight: 500;
@@ -117,28 +109,28 @@ letter-spacing: 0.02em;
 }
 
 .hero-list {
-    
 }
 
 .hero-items {
-   
 }
 
 .hero-subtitles {
     color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
 
+}
 .hero-text {
     color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
+
 /* ================================== */
 
 
