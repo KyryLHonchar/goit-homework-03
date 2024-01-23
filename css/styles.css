@@ -135,7 +135,7 @@ letter-spacing: 0.02em;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     background-color:#F4F4FD ;
@@ -153,7 +153,7 @@ letter-spacing: 0.02em;
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
@@ -174,7 +174,7 @@ letter-spacing: 0.02em;
     text-align: center;
 font-size: 36px;
 font-weight: 700;
-line-height: 1.2;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
@@ -189,7 +189,7 @@ text-transform: capitalize;
     color:#2E2F42;
 font-size: 20px;
 font-weight: 500;
-line-height: 1.2px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 }
 
@@ -198,7 +198,7 @@ letter-spacing: 0.02em;
 
 font-size: 16px;
 font-weight: 400;
-line-height: 1.5px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 /* ========================================= */
@@ -211,7 +211,7 @@ letter-spacing: 0.02em;
 
 .footer-logo {
     color:#4D5AE5;
-font-family: 'Raleway' sans-serif;
+font-family:  "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
